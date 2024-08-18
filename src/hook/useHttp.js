@@ -24,6 +24,11 @@ export default function useHttp(url, config, initialData) {
     setData(initialData);
   }
 
+  //Limpiar el error para que se pueda mandar la orden correctamente.
+  function clearError(){
+    setError(null)
+  }
+
   //Utiliza useCallback para memorizar la función y evitar recrearla en cada render
   const sendRequest = useCallback(
     async function sendRequest(data) {
@@ -52,5 +57,6 @@ export default function useHttp(url, config, initialData) {
     error,
     sendRequest,
     clearData,
+    clearError
   };
 }

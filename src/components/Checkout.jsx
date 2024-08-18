@@ -26,6 +26,7 @@ export default function Checkout() {
     error, // Mensaje de error en caso de fallo
     sendRequest, // Función para enviar la solicitud HTTP
     clearData, // Función para limpiar los datos de la respuesta
+    clearError, //Limpiar el error
   } = useHttp("http://localhost:3000/orders", requestConfig); // Configura el hook useHttp con la URL y la configuración de la solicitud
 
   //Calcula el total del carrito
@@ -49,6 +50,7 @@ export default function Checkout() {
   // Maneja el envío del formulario de checkout
   function handleSubmit(event) {
     event.preventDefault();
+    clearError();
 
     // Extrae los datos del formulario y los convierte en un objeto
     const fd = new FormData(event.target);
