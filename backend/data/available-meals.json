@@ -1,0 +1,142 @@
+[
+  {
+    "id": "m1",
+    "name": "Macarrones con Queso",
+    "price": "161",
+    "description": "Queso cheddar cremoso mezclado con macarrones perfectamente cocidos, cubierto con pan rallado crujiente. Un clásico reconfortante.",
+    "image": "images/mac-and-cheese.jpg"
+  },
+  {
+    "id": "m2",
+    "name": "Pizza Margherita",
+    "price": "233",
+    "description": "Una pizza clásica con mozzarella fresca, tomates y albahaca sobre una masa delgada y crujiente.",
+    "image": "images/margherita-pizza.jpg"
+  },
+  {
+    "id": "m3",
+    "name": "Ensalada César",
+    "price": "143",
+    "description": "Lechuga romana mezclada con aderezo César, cubierta con crutones y lascas de parmesano.",
+    "image": "images/caesar-salad.jpg"
+  },
+  {
+    "id": "m4",
+    "name": "Espagueti Carbonara",
+    "price": "197",
+    "description": "Espagueti al dente con una salsa cremosa hecha de yema de huevo, queso pecorino, panceta y pimienta.",
+    "image": "images/spaghetti-carbonara.jpg"
+  },
+  {
+    "id": "m5",
+    "name": "Hamburguesa Vegana",
+    "price": "179",
+    "description": "Una jugosa hamburguesa vegana servida en un pan integral con lechuga, tomate y una salsa picante.",
+    "image": "images/veggie-burger.jpg"
+  },
+  {
+    "id": "m6",
+    "name": "Sándwich de Pollo a la Parrilla",
+    "price": "197",
+    "description": "Pechuga de pollo a la parrilla con aguacate, tocino, lechuga y mostaza con miel en un pan tostado.",
+    "image": "images/grilled-chicken-sandwich.jpg"
+  },
+  {
+    "id": "m7",
+    "name": "Bistec con Papas Fritas",
+    "price": "323",
+    "description": "Jugoso bistec cocinado a tu gusto, servido con papas fritas doradas y mantequilla de hierbas.",
+    "image": "images/steak-frites.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "Plato de Rollos de Sushi",
+    "price": "287",
+    "description": "Una selección de rollos de sushi frescos incluyendo California, Atún Picante y Anguila con Aguacate.",
+    "image": "images/sushi-roll-platter.jpg"
+  },
+  {
+    "id": "m9",
+    "name": "Curry de Pollo",
+    "price": "251",
+    "description": "Tiernos trozos de pollo cocidos en una rica y aromática salsa de curry, servidos con arroz basmati.",
+    "image": "images/chicken-curry.jpg"
+  },
+  {
+    "id": "m10",
+    "name": "Bowl Vegano Buddha",
+    "price": "215",
+    "description": "Un bowl abundante lleno de quinoa, verduras asadas, aguacate y aderezo de tahini.",
+    "image": "images/vegan-buddha-bowl.jpg"
+  },
+  {
+    "id": "m11",
+    "name": "Paella de Mariscos",
+    "price": "359",
+    "description": "Una delicia española llena de arroz infundido con azafrán, camarones, mejillones y chorizo.",
+    "image": "images/seafood-paella.jpg"
+  },
+  {
+    "id": "m12",
+    "name": "Torre de Panqueques",
+    "price": "161",
+    "description": "Panqueques esponjosos apilados, bañados con jarabe de arce y cubiertos con frutas frescas.",
+    "image": "images/pancake-stack.jpg"
+  },
+  {
+    "id": "m13",
+    "name": "Miso Ramen",
+    "price": "233",
+    "description": "Un reconfortante bowl de ramen con caldo de miso, cerdo tierno, huevo cocido y cebollines.",
+    "image": "images/miso-ramen.jpg"
+  },
+  {
+    "id": "m14",
+    "name": "Tacos de Res",
+    "price": "179",
+    "description": "Tres tortillas suaves rellenas de carne de res sazonada, salsa fresca, queso y crema agria.",
+    "image": "images/beef-tacos.jpg"
+  },
+  {
+    "id": "m15",
+    "name": "Brownie de Chocolate",
+    "price": "107",
+    "description": "Un brownie rico y fudgy, cubierto con una bola de helado de vainilla y salsa de chocolate.",
+    "image": "images/chocolate-brownie.jpg"
+  },
+  {
+    "id": "m16",
+    "name": "Bisque de Langosta",
+    "price": "269",
+    "description": "Una sopa cremosa hecha con caldo de langosta, verduras aromáticas y un toque de brandy.",
+    "image": "images/lobster-bisque.jpg"
+  },
+  {
+    "id": "m17",
+    "name": "Risotto de Champiñones",
+    "price": "251",
+    "description": "Arroz Arborio cremoso cocido con una variedad de champiñones silvestres y terminado con parmesano.",
+    "image": "images/mushroom-risotto.jpg"
+  },
+  {
+    "id": "m18",
+    "name": "Berenjena a la Parmesana",
+    "price": "215",
+    "description": "Capas de berenjena empanizada, salsa marinara y queso mozzarella y parmesano derretido.",
+    "image": "images/eggplant-parmesan.jpg"
+  },
+  {
+    "id": "m19",
+    "name": "Cheesecake de Limón",
+    "price": "125",
+    "description": "Un cheesecake cremoso con sabor a limón, servido sobre una base de galleta crujiente.",
+    "image": "images/lemon-cheesecake.jpg"
+  },
+  {
+    "id": "m20",
+    "name": "Wrap de Falafel",
+    "price": "161",
+    "description": "Falafels crujientes envueltos en un pan pita caliente con lechuga, tomates y salsa de tahini.",
+    "image": "images/falafel-wrap.jpg"
+  }
+]
