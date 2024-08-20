@@ -56,3 +56,22 @@ Este es un proyecto de aplicación para ordenar comida que permite a los usuario
 - **Backend:**
   - `app.js` - Configuración del servidor Express y manejo de rutas.
   - `data/` - Archivos JSON para platillos y pedidos.
+
+## Vista Previa
+Aquí hay una vista previa de cómo se ve la aplicación:
+
+### Visualización de Platillos
+![Food-order](https://github.com/user-attachments/assets/eae6a540-8f18-48ee-925d-a9d5f2e14536)
+
+### Carrito
+![Food-order-5](https://github.com/user-attachments/assets/30a80c3c-2975-4f4f-9787-b9835c01f770)
+
+### Checkout Form y error
+![Food-order-6](https://github.com/user-attachments/assets/a6dfdd9b-2ba7-4935-9f2a-8eb8c070a56d)
+
+### Mensaje de seguimiento
+![Food-order-7](https://github.com/user-attachments/assets/b3d830dd-b9fa-4129-b14c-51a4b2921525)
+
+
+
+
